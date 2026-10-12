@@ -1,22 +1,15 @@
 <a name="top"></a>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=26&amp;duration=3200&amp;pause=1000&amp;color=F9D65C&amp;background=080F2300&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=88&amp;repeat=true&amp;lines=Hello%2C+I%27m+s4ngxg." width="760" alt="Hello, I'm s4ngxg.">
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=36&amp;duration=1200&amp;pause=1000&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=64&amp;repeat=false&amp;lines=%F0%9F%9B%A1%EF%B8%8F+SECURITY+RESEARCH+++%7C+++%E2%9B%93%EF%B8%8F+BLOCKCHAIN" width="760" alt="🛡️ Security Research | ⛓️ Blockchain">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=F9D65C&amp;background=080F2300&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=48&amp;repeat=true&amp;lines=Hello%2C+I%27m+s4ngxg." width="580" alt="Hello, I'm s4ngxg.">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=28&amp;duration=1200&amp;pause=1000&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=40&amp;repeat=false&amp;lines=%F0%9F%9B%A1%EF%B8%8F+SECURITY+RESEARCH+++%7C+++%E2%9B%93%EF%B8%8F+BLOCKCHAIN" width="580" alt="🛡️ Security Research | ⛓️ Blockchain">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="760" alt="Animated 16-bit developer room with glowing screens and retro game characters">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Animated 16-bit developer room with glowing screens and retro game characters">
 </p>
-
---- 
-
 ---
-
-
 <h2 align="left">🕹️ <samp>ABOUT ME</samp></h2>
 
 <table align="center" width="720">
