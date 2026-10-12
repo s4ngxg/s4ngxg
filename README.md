@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Animated 16-bit developer room with glowing screens and retro game characters">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="760" alt="Animated 16-bit developer room with glowing screens and retro game characters">
 </p>
+
 ---
+
 <h2 align="left">🕹️ <samp>ABOUT ME</samp></h2>
 
 <table align="center" width="720">
