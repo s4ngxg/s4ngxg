@@ -34,11 +34,6 @@
 </table>
 
 <br>
-
-<h2 align="left">🎒 <samp>TECH STACK &amp; SKILLS</samp></h2>
-
-
-<br>
 <h2 align="left">🎒 <samp>TECH STACK &amp; SKILLS</samp></h2>
 
 <h3 align="center">💻 <samp>Languages</samp></h3>
