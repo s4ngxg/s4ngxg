@@ -13,21 +13,31 @@
 </p>
 
 --- 
+
+---
+
 <h2 align="left">🕹️ <samp>ABOUT ME</samp></h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="left" valign="middle" width="60%">
-      <h3>Hey, I'm Thanh Sang 👋</h3>
-      <p>🔭 Exploring <strong>security research</strong> &amp; <strong>blockchain</strong></p>
-      <p>🌱 Learning something new every day.</p>
-      <p>⚽ I enjoy football and ✈️ traveling.</p>
-    </td>
-    <td align="center" valign="middle" width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="216" height="216" alt="Animated white pixel-art cat waving its paw">
-    </td>
-  </tr>
-</table>
+<img align="right"
+     src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"
+     width="200"
+     height="200"
+     alt="Animated white pixel-art cat">
+
+<h3>Hey, I'm Thanh Sang 👋</h3>
+
+<p>🔭 Exploring <strong>security research</strong> &amp; <strong>blockchain</strong>.</p>
+
+<p>🌱 Learning something new every day.</p>
+
+<p>⚽ I enjoy football and ✈️ traveling.</p>
+
+<br clear="right">
+
+<br>
+
+<h2 align="left">🎒 <samp>TECH STACK &amp; SKILLS</samp></h2>
+
 
 <br>
 <h2 align="left">🎒 <samp>TECH STACK &amp; SKILLS</samp></h2>
