@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=F9D65C&amp;background=080F2300&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=48&amp;repeat=true&amp;lines=Hello%2C+I%27m+s4ngxg." width="580" alt="Hello, I'm s4ngxg.">
-  <br>
+  <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=28&amp;duration=1200&amp;pause=1000&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=40&amp;repeat=false&amp;lines=%F0%9F%9B%A1%EF%B8%8F+SECURITY+RESEARCH+++%7C+++%E2%9B%93%EF%B8%8F+BLOCKCHAIN" width="580" alt="🛡️ Security Research | ⛓️ Blockchain">
 </p>
 
