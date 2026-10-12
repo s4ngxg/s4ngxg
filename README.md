@@ -16,23 +16,22 @@
 
 ---
 
+
 <h2 align="left">🕹️ <samp>ABOUT ME</samp></h2>
 
-<img align="right"
-     src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"
-     width="200"
-     height="200"
-     alt="Animated white pixel-art cat">
-
+<table align="center" width="720">
+<tr>
+<td align="left" valign="middle" width="470">
 <h3>Hey, I'm Thanh Sang 👋</h3>
-
-<p>🔭 Exploring <strong>security research</strong> &amp; <strong>blockchain</strong>.</p>
-
+<p>🔭 Exploring <strong>security research</strong> &amp; <strong>blockchain</strong></p>
 <p>🌱 Learning something new every day.</p>
-
 <p>⚽ I enjoy football and ✈️ traveling.</p>
-
-<br clear="right">
+</td>
+<td align="center" valign="middle" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="216" height="216" alt="Animated white pixel-art cat waving its paw">
+</td>
+</tr>
+</table>
 
 <br>
 
